@@ -1,3 +1,4 @@
 function typo() {
-	document.getElementById('first').style.color = 'red';
+	let firstP = document.getElementById('first');
+	firstP.style.color = 'red';
 }
