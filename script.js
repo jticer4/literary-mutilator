@@ -1,4 +1,9 @@
 function typo() {
-	let firstP = document.getElementById('first');
-	firstP.style.color = 'red';
+	let firstParagraph = document.getElementById('first');
+	firstParagraph.style.color = 'red';
+}
+
+function bigLeague() {
+	let bigly = document.getElementById('first');
+	bigly.style.fontSize = '200px';
 }
