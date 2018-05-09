@@ -19,3 +19,12 @@ html {
 	background-color: black;
 	color: white;
 }
+
+button {
+	background-color: gold;
+	padding: .1rem;
+	margin-left: .2rem;
+	margin-right: .2rem;
+	border-radius: 6px;
+	border-collapse: collapse;
+}

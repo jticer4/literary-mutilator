@@ -1,6 +1,6 @@
 function typo() {
 	let firstParagraph = document.getElementById('allText');
-	firstParagraph.style.color = 'yellow';
+	firstParagraph.style.color = 'darkgoldenrod';
 
 }
 
